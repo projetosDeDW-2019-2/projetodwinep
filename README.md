@@ -15,7 +15,7 @@ Disponível em: http://inep.gov.br/microdados
 
 3. Base operacional completa disponível online: Disponível no Github
 
-4. Modelo do DW: modeloOrigem.mwb
+4. Modelo do DW: modeloDW.mwb
 
 5. Script SQL de criação do DW vazio: dumpDWINEP.rar
 

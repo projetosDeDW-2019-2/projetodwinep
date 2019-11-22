@@ -25,13 +25,7 @@ Disponível em: http://inep.gov.br/microdados
 
 8. ETL Fatos: ETL.rar
 
-9. Consultas OLAP: 
-
--RespostasDW.rar (Subpastas com arquivos para cada questão)
-
--Respostas.pdf
-
--Mapa de calor.pdf
+9. Consultas OLAP: RespostasDW.rar (Subpastas com arquivos para cada questão), Respostas.pdf e Mapa de calor.pdf
 
 10. Dicionário de dados: DicionarioDadosBaseOperacional.xls
 

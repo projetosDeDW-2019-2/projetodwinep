@@ -15,13 +15,13 @@ Disponível em: http://inep.gov.br/microdados
 
 3. Base operacional completa disponível online:  databases.000webhost.com
 
-Origem
+Base Origem
 
 username: id11689118_admin1
 
 senha: senha
 
-DW
+Base DW
 
 username: id11689118_admin
 

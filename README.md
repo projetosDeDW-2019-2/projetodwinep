@@ -13,7 +13,17 @@ Disponível em: http://inep.gov.br/microdados
 
 2. Script SQL de criação da base operacional com os inserts dos dados: dumpBaseOrigem.rar (Diponível em: https://drive.google.com/open?id=1dGtNcRlGPwhsPdJlnKZXq83cYDabFUTn)
 
-3. Base operacional completa disponível online: Disponível no Drive
+3. Base operacional completa disponível online:  databases.000webhost.com
+
+Origem
+
+username: id11689118_admin1
+senha: senha
+
+DW
+
+username: id11689118_admin
+senha: senha
 
 4. Modelo do DW: modeloDW.mwb
 

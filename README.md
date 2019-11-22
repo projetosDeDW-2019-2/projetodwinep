@@ -13,7 +13,7 @@ Disponível em: http://inep.gov.br/microdados
 
 2. Script SQL de criação da base operacional com os inserts dos dados: dumpBaseOrigem.rar (Diponível em: https://drive.google.com/open?id=1dGtNcRlGPwhsPdJlnKZXq83cYDabFUTn)
 
-3. Base operacional completa disponível online: Disponível no Github
+3. Base operacional completa disponível online: Disponível no Drive
 
 4. Modelo do DW: modeloDW.mwb
 
@@ -29,7 +29,7 @@ Disponível em: http://inep.gov.br/microdados
 
 10. Dicionário de dados: DicionarioDadosBaseOperacional.xls
 
-11. Código da implementação dos mapas de calor: mapadecalor.R pelo RStudio e Programa QGIS
+11. Código da implementação dos mapas de calor: mapadecalor.R
 
 
 ## Mapa de Calor
@@ -37,4 +37,4 @@ Instalar RStudio em https://rstudio.com/products/rstudio/download/
 
 Executar arquivo mapadecalor.R
 
-Alterar arquivo csv conforme questão. (CSVs e XLSX disponíveis na pasta de respostas)
+Alterar arquivo csv conforme questão. (CSV e XLSX disponíveis na pasta de respostas)
